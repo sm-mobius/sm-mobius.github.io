@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            sunlightmoon
-tagline:          'hello there'
+#title:            sunlightmoon
+#tagline:          'hello there'
 description:      'sm test'
 url:              https://sm-mobius.github.io
-baseurl:          
+#baseurl:          
 
-author:
-  name:           'sunlightmoon'
-  url:            https://sm-mobius.github.io
+#author:
+ # name:           'sunlightmoon'
+ # url:            https://sm-mobius.github.io
 
-paginate:         5
+#paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 
-github:           https://sm-mobius.github.io
-  repo:           
+#github:           https://sm-mobius.github.io
+ # repo:           
